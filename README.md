@@ -45,6 +45,10 @@ Train a new machine learning model and compare its performance to that of a base
 # CONCLUSION
 
 The SVM model did better than the Logistic regression model since the accuracy of the SVM is 55 and The LR model is 52, which makes slightly higher.
+<img width="221" alt="PGN return for LR model" src="https://user-images.githubusercontent.com/90729599/152713909-da7a5712-d965-4cdf-bea3-97a9d511c90f.PNG">
+<img width="319" alt="PNG of SVM model return" src="https://user-images.githubusercontent.com/90729599/152713911-72b9e7a4-e91a-4fc4-b0a1-e2d37bbcc2ee.PNG">
+<img width="374" alt="LR report" src="https://user-images.githubusercontent.com/90729599/152713913-91358093-c9f1-4397-8e26-43eab4c1d3c7.PNG">
+<img width="334" alt="SVM model report" src="https://user-images.githubusercontent.com/90729599/152713914-0596d067-7f1e-4be5-9792-c6330484f25e.PNG">
 
 
 
